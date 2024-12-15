@@ -24,7 +24,7 @@ const cardsData = [
   
       const heartIcon = card.querySelector('.heart-icon');
       const initialHeartSrc = heartIcon.src;
-      const likedHeartSrc = 'img/Like.png';
+      const likedHeartSrc = 'img/Like.svg';
     
     let isLiked = false;
   
